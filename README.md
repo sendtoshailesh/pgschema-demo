@@ -171,16 +171,6 @@ This demo is optimized for different platforms and audiences:
 - **Audience**: Developers researching solutions
 - **Content**: Detailed walkthrough with screenshots and explanations
 
-### ⭐ GitHub Repository
-- **Format**: Interactive, runnable demo
-- **Audience**: Hands-on developers
-- **Content**: Complete working examples you can try yourself
-
-### 🎤 Conference Presentation
-- **Duration**: 5-20 minutes (configurable)
-- **Format**: Live demo or slides + demo
-- **Audience**: PostgreSQL community, DevOps engineers
-- **Content**: Problem-solution narrative with live coding
 
 ## 🔧 Manual Commands
 
